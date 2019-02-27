@@ -1,4 +1,5 @@
-title: 置顶
+title: Material X 1.1.0
+thumbnail: https://cdn.jsdelivr.net/gh/xaoxuu/assets@master/avatar/avatar.png
 categories: 教程
 top: true
 meta:
